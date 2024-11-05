@@ -1,0 +1,552 @@
+Patient ID,Malignancy,Classification
+LIDC-IDRI-0001,Moderately Suspicious,Malignant
+LIDC-IDRI-0003,Moderately Unlikely,Benign
+LIDC-IDRI-0004,Highly Unlikely,Benign
+LIDC-IDRI-0005,Moderately Unlikely,Benign
+LIDC-IDRI-0006,Moderately Unlikely,Benign
+LIDC-IDRI-0007,Moderately Suspicious,Malignant
+LIDC-IDRI-0008,Moderately Unlikely,Benign
+LIDC-IDRI-0010,Moderately Unlikely,Benign
+LIDC-IDRI-0011,Highly Unlikely,Benign
+LIDC-IDRI-0012,Moderately Unlikely,Benign
+LIDC-IDRI-0013,Moderately Suspicious,Malignant
+LIDC-IDRI-0014,Moderately Unlikely,Benign
+LIDC-IDRI-0015,Moderately Suspicious,Malignant
+LIDC-IDRI-0016,Indeterminate,Indeterminate
+LIDC-IDRI-0017,Moderately Unlikely,Benign
+LIDC-IDRI-0018,Moderately Unlikely,Benign
+LIDC-IDRI-0020,Moderately Unlikely,Benign
+LIDC-IDRI-0021,Highly Unlikely,Benign
+LIDC-IDRI-0023,Moderately Suspicious,Malignant
+LIDC-IDRI-0024,Moderately Unlikely,Benign
+LIDC-IDRI-0027,Moderately Unlikely,Benign
+LIDC-IDRI-0031,Moderately Unlikely,Benign
+LIDC-IDRI-0034,Moderately Unlikely,Benign
+LIDC-IDRI-0036,Indeterminate,Indeterminate
+LIDC-IDRI-0037,Moderately Suspicious,Malignant
+LIDC-IDRI-0039,Highly Unlikely,Benign
+LIDC-IDRI-0040,Moderately Unlikely,Benign
+LIDC-IDRI-0041,Indeterminate,Indeterminate
+LIDC-IDRI-0042,Moderately Unlikely,Benign
+LIDC-IDRI-0043,Moderately Unlikely,Benign
+LIDC-IDRI-0044,Highly Unlikely,Benign
+LIDC-IDRI-0045,Moderately Unlikely,Benign
+LIDC-IDRI-0046,Moderately Unlikely,Benign
+LIDC-IDRI-0047,Indeterminate,Indeterminate
+LIDC-IDRI-0048,Moderately Unlikely,Benign
+LIDC-IDRI-0049,Moderately Unlikely,Benign
+LIDC-IDRI-0050,Indeterminate,Indeterminate
+LIDC-IDRI-0051,Moderately Unlikely,Benign
+LIDC-IDRI-0053,Moderately Unlikely,Benign
+LIDC-IDRI-0054,Moderately Unlikely,Benign
+LIDC-IDRI-0055,Moderately Unlikely,Benign
+LIDC-IDRI-0056,Moderately Unlikely,Benign
+LIDC-IDRI-0057,Moderately Suspicious,Malignant
+LIDC-IDRI-0058,Indeterminate,Indeterminate
+LIDC-IDRI-0059,Moderately Suspicious,Malignant
+LIDC-IDRI-0060,Moderately Suspicious,Malignant
+LIDC-IDRI-0061,Moderately Unlikely,Benign
+LIDC-IDRI-0063,Moderately Unlikely,Benign
+LIDC-IDRI-0064,Indeterminate,Indeterminate
+LIDC-IDRI-0066,Indeterminate,Indeterminate
+LIDC-IDRI-0067,Moderately Unlikely,Benign
+LIDC-IDRI-0068,Indeterminate,Indeterminate
+LIDC-IDRI-0069,Indeterminate,Indeterminate
+LIDC-IDRI-0072,Highly Suspicious,Malignant
+LIDC-IDRI-0073,Moderately Unlikely,Benign
+LIDC-IDRI-0074,Moderately Unlikely,Benign
+LIDC-IDRI-0075,Indeterminate,Indeterminate
+LIDC-IDRI-0076,Moderately Unlikely,Benign
+LIDC-IDRI-0080,Moderately Unlikely,Benign
+LIDC-IDRI-0081,Moderately Unlikely,Benign
+LIDC-IDRI-0082,Moderately Suspicious,Malignant
+LIDC-IDRI-0083,Moderately Unlikely,Benign
+LIDC-IDRI-0084,Moderately Unlikely,Benign
+LIDC-IDRI-0087,Moderately Suspicious,Malignant
+LIDC-IDRI-0088,Moderately Unlikely,Benign
+LIDC-IDRI-0089,Indeterminate,Indeterminate
+LIDC-IDRI-0090,Moderately Suspicious,Malignant
+LIDC-IDRI-0091,Indeterminate,Indeterminate
+LIDC-IDRI-0092,Highly Unlikely,Benign
+LIDC-IDRI-0093,Moderately Unlikely,Benign
+LIDC-IDRI-0094,Moderately Suspicious,Malignant
+LIDC-IDRI-0095,Moderately Suspicious,Malignant
+LIDC-IDRI-0096,Moderately Unlikely,Benign
+LIDC-IDRI-0097,Indeterminate,Indeterminate
+LIDC-IDRI-0099,Highly Unlikely,Benign
+LIDC-IDRI-0108,Moderately Suspicious,Malignant
+LIDC-IDRI-0109,Moderately Unlikely,Benign
+LIDC-IDRI-0111,Moderately Unlikely,Benign
+LIDC-IDRI-0112,Moderately Unlikely,Benign
+LIDC-IDRI-0113,Moderately Unlikely,Benign
+LIDC-IDRI-0114,Indeterminate,Indeterminate
+LIDC-IDRI-0116,Moderately Suspicious,Malignant
+LIDC-IDRI-0118,Highly Unlikely,Benign
+LIDC-IDRI-0119,Highly Unlikely,Benign
+LIDC-IDRI-0120,Moderately Suspicious,Malignant
+LIDC-IDRI-0121,Moderately Unlikely,Benign
+LIDC-IDRI-0122,Moderately Unlikely,Benign
+LIDC-IDRI-0124,Moderately Unlikely,Benign
+LIDC-IDRI-0126,Highly Unlikely,Benign
+LIDC-IDRI-0128,Moderately Unlikely,Benign
+LIDC-IDRI-0129,Indeterminate,Indeterminate
+LIDC-IDRI-0130,Highly Unlikely,Benign
+LIDC-IDRI-0131,Moderately Unlikely,Benign
+LIDC-IDRI-0133,Moderately Unlikely,Benign
+LIDC-IDRI-0135,Indeterminate,Indeterminate
+LIDC-IDRI-0137,Highly Suspicious,Malignant
+LIDC-IDRI-0139,Moderately Unlikely,Benign
+LIDC-IDRI-0140,Indeterminate,Indeterminate
+LIDC-IDRI-0141,Indeterminate,Indeterminate
+LIDC-IDRI-0142,Moderately Unlikely,Benign
+LIDC-IDRI-0144,Highly Unlikely,Benign
+LIDC-IDRI-0145,Moderately Suspicious,Malignant
+LIDC-IDRI-0147,Moderately Suspicious,Malignant
+LIDC-IDRI-0148,Highly Suspicious,Malignant
+LIDC-IDRI-0149,Indeterminate,Indeterminate
+LIDC-IDRI-0152,Moderately Unlikely,Benign
+LIDC-IDRI-0153,Indeterminate,Indeterminate
+LIDC-IDRI-0158,Indeterminate,Indeterminate
+LIDC-IDRI-0159,Indeterminate,Indeterminate
+LIDC-IDRI-0160,Moderately Suspicious,Malignant
+LIDC-IDRI-0161,Indeterminate,Indeterminate
+LIDC-IDRI-0162,Moderately Unlikely,Benign
+LIDC-IDRI-0163,Highly Suspicious,Malignant
+LIDC-IDRI-0164,Indeterminate,Indeterminate
+LIDC-IDRI-0168,Moderately Unlikely,Benign
+LIDC-IDRI-0169,Moderately Suspicious,Malignant
+LIDC-IDRI-0170,Highly Suspicious,Malignant
+LIDC-IDRI-0171,Moderately Unlikely,Benign
+LIDC-IDRI-0172,Highly Suspicious,Malignant
+LIDC-IDRI-0175,Indeterminate,Indeterminate
+LIDC-IDRI-0177,Moderately Unlikely,Benign
+LIDC-IDRI-0179,Indeterminate,Indeterminate
+LIDC-IDRI-0181,Moderately Suspicious,Malignant
+LIDC-IDRI-0182,Moderately Unlikely,Benign
+LIDC-IDRI-0183,Indeterminate,Indeterminate
+LIDC-IDRI-0184,Indeterminate,Indeterminate
+LIDC-IDRI-0185,Moderately Unlikely,Benign
+LIDC-IDRI-0186,Highly Suspicious,Malignant
+LIDC-IDRI-0187,Highly Suspicious,Malignant
+LIDC-IDRI-0188,Indeterminate,Indeterminate
+LIDC-IDRI-0190,Moderately Suspicious,Malignant
+LIDC-IDRI-0191,Moderately Suspicious,Malignant
+LIDC-IDRI-0192,Indeterminate,Indeterminate
+LIDC-IDRI-0193,Indeterminate,Indeterminate
+LIDC-IDRI-0194,Highly Suspicious,Malignant
+LIDC-IDRI-0195,Indeterminate,Indeterminate
+LIDC-IDRI-0196,Moderately Suspicious,Malignant
+LIDC-IDRI-0199,Moderately Suspicious,Malignant
+LIDC-IDRI-0200,Indeterminate,Indeterminate
+LIDC-IDRI-0203,Highly Unlikely,Benign
+LIDC-IDRI-0204,Moderately Suspicious,Malignant
+LIDC-IDRI-0206,Moderately Unlikely,Benign
+LIDC-IDRI-0208,Indeterminate,Indeterminate
+LIDC-IDRI-0209,Indeterminate,Indeterminate
+LIDC-IDRI-0210,Moderately Suspicious,Malignant
+LIDC-IDRI-0211,Highly Suspicious,Malignant
+LIDC-IDRI-0213,Moderately Unlikely,Benign
+LIDC-IDRI-0215,Highly Unlikely,Benign
+LIDC-IDRI-0217,Moderately Suspicious,Malignant
+LIDC-IDRI-0219,Highly Suspicious,Malignant
+LIDC-IDRI-0220,Moderately Suspicious,Malignant
+LIDC-IDRI-0221,Highly Suspicious,Malignant
+LIDC-IDRI-0222,Highly Unlikely,Benign
+LIDC-IDRI-0223,Indeterminate,Indeterminate
+LIDC-IDRI-0227,Moderately Suspicious,Malignant
+LIDC-IDRI-0228,Indeterminate,Indeterminate
+LIDC-IDRI-0229,Indeterminate,Indeterminate
+LIDC-IDRI-0230,Indeterminate,Indeterminate
+LIDC-IDRI-0234,Moderately Suspicious,Malignant
+LIDC-IDRI-0235,Moderately Unlikely,Benign
+LIDC-IDRI-0236,Moderately Unlikely,Benign
+LIDC-IDRI-0237,Moderately Unlikely,Benign
+LIDC-IDRI-0240,Moderately Unlikely,Benign
+LIDC-IDRI-0241,Moderately Unlikely,Benign
+LIDC-IDRI-0242,Highly Suspicious,Malignant
+LIDC-IDRI-0244,Highly Unlikely,Benign
+LIDC-IDRI-0245,Moderately Unlikely,Benign
+LIDC-IDRI-0246,Moderately Suspicious,Malignant
+LIDC-IDRI-0248,Moderately Unlikely,Benign
+LIDC-IDRI-0249,Moderately Suspicious,Malignant
+LIDC-IDRI-0250,Moderately Suspicious,Malignant
+LIDC-IDRI-0251,Indeterminate,Indeterminate
+LIDC-IDRI-0252,Moderately Suspicious,Malignant
+LIDC-IDRI-0255,Moderately Unlikely,Benign
+LIDC-IDRI-0256,Highly Unlikely,Benign
+LIDC-IDRI-0257,Moderately Suspicious,Malignant
+LIDC-IDRI-0258,Moderately Unlikely,Benign
+LIDC-IDRI-0259,Moderately Suspicious,Malignant
+LIDC-IDRI-0260,Moderately Suspicious,Malignant
+LIDC-IDRI-0262,Moderately Suspicious,Malignant
+LIDC-IDRI-0264,Indeterminate,Indeterminate
+LIDC-IDRI-0265,Highly Suspicious,Malignant
+LIDC-IDRI-0269,Indeterminate,Indeterminate
+LIDC-IDRI-0270,Indeterminate,Indeterminate
+LIDC-IDRI-0272,Indeterminate,Indeterminate
+LIDC-IDRI-0273,Moderately Unlikely,Benign
+LIDC-IDRI-0274,Moderately Suspicious,Malignant
+LIDC-IDRI-0276,Moderately Suspicious,Malignant
+LIDC-IDRI-0277,Moderately Suspicious,Malignant
+LIDC-IDRI-0278,Moderately Unlikely,Benign
+LIDC-IDRI-0281,Indeterminate,Indeterminate
+LIDC-IDRI-0282,Indeterminate,Indeterminate
+LIDC-IDRI-0283,Indeterminate,Indeterminate
+LIDC-IDRI-0284,Moderately Unlikely,Benign
+LIDC-IDRI-0285,Moderately Unlikely,Benign
+LIDC-IDRI-0286,Moderately Unlikely,Benign
+LIDC-IDRI-0288,Moderately Suspicious,Malignant
+LIDC-IDRI-0289,Highly Suspicious,Malignant
+LIDC-IDRI-0292,Moderately Unlikely,Benign
+LIDC-IDRI-0294,Moderately Unlikely,Benign
+LIDC-IDRI-0298,Moderately Unlikely,Benign
+LIDC-IDRI-0299,Moderately Suspicious,Malignant
+LIDC-IDRI-0300,Indeterminate,Indeterminate
+LIDC-IDRI-0301,Indeterminate,Indeterminate
+LIDC-IDRI-0304,Indeterminate,Indeterminate
+LIDC-IDRI-0305,Indeterminate,Indeterminate
+LIDC-IDRI-0308,Moderately Suspicious,Malignant
+LIDC-IDRI-0309,Indeterminate,Indeterminate
+LIDC-IDRI-0311,Moderately Suspicious,Malignant
+LIDC-IDRI-0312,Moderately Suspicious,Malignant
+LIDC-IDRI-0313,Highly Suspicious,Malignant
+LIDC-IDRI-0314,Indeterminate,Indeterminate
+LIDC-IDRI-0318,Indeterminate,Indeterminate
+LIDC-IDRI-0321,Highly Unlikely,Benign
+LIDC-IDRI-0325,Indeterminate,Indeterminate
+LIDC-IDRI-0326,Moderately Suspicious,Malignant
+LIDC-IDRI-0332,Moderately Unlikely,Benign
+LIDC-IDRI-0335,Indeterminate,Indeterminate
+LIDC-IDRI-0338,Moderately Unlikely,Benign
+LIDC-IDRI-0339,Moderately Suspicious,Malignant
+LIDC-IDRI-0341,Indeterminate,Indeterminate
+LIDC-IDRI-0344,Moderately Suspicious,Malignant
+LIDC-IDRI-0345,Indeterminate,Indeterminate
+LIDC-IDRI-0348,Moderately Suspicious,Malignant
+LIDC-IDRI-0352,Moderately Unlikely,Benign
+LIDC-IDRI-0353,Highly Unlikely,Benign
+LIDC-IDRI-0356,Moderately Unlikely,Benign
+LIDC-IDRI-0358,Indeterminate,Indeterminate
+LIDC-IDRI-0362,Indeterminate,Indeterminate
+LIDC-IDRI-0363,Highly Unlikely,Benign
+LIDC-IDRI-0371,Indeterminate,Indeterminate
+LIDC-IDRI-0372,Indeterminate,Indeterminate
+LIDC-IDRI-0373,Highly Unlikely,Benign
+LIDC-IDRI-0375,Highly Unlikely,Benign
+LIDC-IDRI-0376,Highly Unlikely,Benign
+LIDC-IDRI-0377,Indeterminate,Indeterminate
+LIDC-IDRI-0380,Moderately Unlikely,Benign
+LIDC-IDRI-0385,Moderately Suspicious,Malignant
+LIDC-IDRI-0386,Highly Unlikely,Benign
+LIDC-IDRI-0388,Moderately Unlikely,Benign
+LIDC-IDRI-0394,Indeterminate,Indeterminate
+LIDC-IDRI-0398,Indeterminate,Indeterminate
+LIDC-IDRI-0399,Moderately Unlikely,Benign
+LIDC-IDRI-0400,Moderately Suspicious,Malignant
+LIDC-IDRI-0402,Indeterminate,Indeterminate
+LIDC-IDRI-0403,Highly Unlikely,Benign
+LIDC-IDRI-0404,Moderately Unlikely,Benign
+LIDC-IDRI-0405,Indeterminate,Indeterminate
+LIDC-IDRI-0406,Moderately Unlikely,Benign
+LIDC-IDRI-0407,Highly Unlikely,Benign
+LIDC-IDRI-0408,Indeterminate,Indeterminate
+LIDC-IDRI-0409,Highly Unlikely,Benign
+LIDC-IDRI-0411,Moderately Unlikely,Benign
+LIDC-IDRI-0412,Highly Unlikely,Benign
+LIDC-IDRI-0413,Highly Unlikely,Benign
+LIDC-IDRI-0415,Moderately Suspicious,Malignant
+LIDC-IDRI-0416,Indeterminate,Indeterminate
+LIDC-IDRI-0419,Highly Unlikely,Benign
+LIDC-IDRI-0420,Indeterminate,Indeterminate
+LIDC-IDRI-0423,Indeterminate,Indeterminate
+LIDC-IDRI-0427,Highly Unlikely,Benign
+LIDC-IDRI-0429,Moderately Unlikely,Benign
+LIDC-IDRI-0430,Moderately Suspicious,Malignant
+LIDC-IDRI-0433,Indeterminate,Indeterminate
+LIDC-IDRI-0434,Indeterminate,Indeterminate
+LIDC-IDRI-0437,Highly Unlikely,Benign
+LIDC-IDRI-0438,Moderately Unlikely,Benign
+LIDC-IDRI-0440,Moderately Suspicious,Malignant
+LIDC-IDRI-0443,Moderately Suspicious,Malignant
+LIDC-IDRI-0445,Moderately Unlikely,Benign
+LIDC-IDRI-0447,Highly Suspicious,Malignant
+LIDC-IDRI-0448,Moderately Suspicious,Malignant
+LIDC-IDRI-0450,Moderately Suspicious,Malignant
+LIDC-IDRI-0451,Moderately Unlikely,Benign
+LIDC-IDRI-0452,Moderately Unlikely,Benign
+LIDC-IDRI-0453,Indeterminate,Indeterminate
+LIDC-IDRI-0454,Moderately Unlikely,Benign
+LIDC-IDRI-0456,Highly Unlikely,Benign
+LIDC-IDRI-0458,Indeterminate,Indeterminate
+LIDC-IDRI-0460,Moderately Unlikely,Benign
+LIDC-IDRI-0461,Moderately Suspicious,Malignant
+LIDC-IDRI-0462,Indeterminate,Indeterminate
+LIDC-IDRI-0463,Highly Unlikely,Benign
+LIDC-IDRI-0464,Indeterminate,Indeterminate
+LIDC-IDRI-0466,Highly Suspicious,Malignant
+LIDC-IDRI-0467,Moderately Unlikely,Benign
+LIDC-IDRI-0469,Moderately Unlikely,Benign
+LIDC-IDRI-0470,Highly Suspicious,Malignant
+LIDC-IDRI-0473,Moderately Unlikely,Benign
+LIDC-IDRI-0476,Moderately Unlikely,Benign
+LIDC-IDRI-0477,Highly Unlikely,Benign
+LIDC-IDRI-0479,Moderately Unlikely,Benign
+LIDC-IDRI-0480,Moderately Unlikely,Benign
+LIDC-IDRI-0481,Highly Unlikely,Benign
+LIDC-IDRI-0485,Moderately Unlikely,Benign
+LIDC-IDRI-0486,Indeterminate,Indeterminate
+LIDC-IDRI-0487,Indeterminate,Indeterminate
+LIDC-IDRI-0489,Moderately Suspicious,Malignant
+LIDC-IDRI-0490,Indeterminate,Indeterminate
+LIDC-IDRI-0491,Highly Unlikely,Benign
+LIDC-IDRI-0492,Indeterminate,Indeterminate
+LIDC-IDRI-0493,Highly Unlikely,Benign
+LIDC-IDRI-0496,Indeterminate,Indeterminate
+LIDC-IDRI-0497,Moderately Suspicious,Malignant
+LIDC-IDRI-0500,Moderately Unlikely,Benign
+LIDC-IDRI-0501,Indeterminate,Indeterminate
+LIDC-IDRI-0503,Indeterminate,Indeterminate
+LIDC-IDRI-0507,Moderately Unlikely,Benign
+LIDC-IDRI-0508,Indeterminate,Indeterminate
+LIDC-IDRI-0510,Moderately Suspicious,Malignant
+LIDC-IDRI-0515,Moderately Suspicious,Malignant
+LIDC-IDRI-0521,Indeterminate,Indeterminate
+LIDC-IDRI-0523,Highly Unlikely,Benign
+LIDC-IDRI-0524,Indeterminate,Indeterminate
+LIDC-IDRI-0525,Indeterminate,Indeterminate
+LIDC-IDRI-0529,Moderately Unlikely,Benign
+LIDC-IDRI-0530,Moderately Suspicious,Malignant
+LIDC-IDRI-0535,Moderately Unlikely,Benign
+LIDC-IDRI-0537,Moderately Unlikely,Benign
+LIDC-IDRI-0539,Indeterminate,Indeterminate
+LIDC-IDRI-0542,Highly Unlikely,Benign
+LIDC-IDRI-0543,Moderately Unlikely,Benign
+LIDC-IDRI-0546,Indeterminate,Indeterminate
+LIDC-IDRI-0547,Moderately Suspicious,Malignant
+LIDC-IDRI-0549,Indeterminate,Indeterminate
+LIDC-IDRI-0552,Highly Suspicious,Malignant
+LIDC-IDRI-0555,Indeterminate,Indeterminate
+LIDC-IDRI-0556,Indeterminate,Indeterminate
+LIDC-IDRI-0557,Indeterminate,Indeterminate
+LIDC-IDRI-0559,Highly Unlikely,Benign
+LIDC-IDRI-0562,Moderately Unlikely,Benign
+LIDC-IDRI-0565,Indeterminate,Indeterminate
+LIDC-IDRI-0566,Moderately Unlikely,Benign
+LIDC-IDRI-0568,Indeterminate,Indeterminate
+LIDC-IDRI-0569,Highly Unlikely,Benign
+LIDC-IDRI-0576,Moderately Unlikely,Benign
+LIDC-IDRI-0578,Moderately Unlikely,Benign
+LIDC-IDRI-0579,Moderately Unlikely,Benign
+LIDC-IDRI-0580,Moderately Suspicious,Malignant
+LIDC-IDRI-0582,Highly Unlikely,Benign
+LIDC-IDRI-0583,Indeterminate,Indeterminate
+LIDC-IDRI-0586,Highly Unlikely,Benign
+LIDC-IDRI-0587,Indeterminate,Indeterminate
+LIDC-IDRI-0590,Moderately Suspicious,Malignant
+LIDC-IDRI-0591,Moderately Unlikely,Benign
+LIDC-IDRI-0592,Indeterminate,Indeterminate
+LIDC-IDRI-0594,Indeterminate,Indeterminate
+LIDC-IDRI-0596,Indeterminate,Indeterminate
+LIDC-IDRI-0598,Moderately Unlikely,Benign
+LIDC-IDRI-0601,Moderately Unlikely,Benign
+LIDC-IDRI-0602,Moderately Unlikely,Benign
+LIDC-IDRI-0604,Highly Unlikely,Benign
+LIDC-IDRI-0605,Moderately Unlikely,Benign
+LIDC-IDRI-0606,Moderately Suspicious,Malignant
+LIDC-IDRI-0608,Highly Unlikely,Benign
+LIDC-IDRI-0610,Moderately Suspicious,Malignant
+LIDC-IDRI-0613,Moderately Unlikely,Benign
+LIDC-IDRI-0614,Moderately Suspicious,Malignant
+LIDC-IDRI-0615,Highly Unlikely,Benign
+LIDC-IDRI-0617,Moderately Unlikely,Benign
+LIDC-IDRI-0619,Highly Unlikely,Benign
+LIDC-IDRI-0620,Moderately Unlikely,Benign
+LIDC-IDRI-0624,Indeterminate,Indeterminate
+LIDC-IDRI-0625,Indeterminate,Indeterminate
+LIDC-IDRI-0628,Highly Suspicious,Malignant
+LIDC-IDRI-0631,Indeterminate,Indeterminate
+LIDC-IDRI-0633,Moderately Suspicious,Malignant
+LIDC-IDRI-0634,Indeterminate,Indeterminate
+LIDC-IDRI-0636,Indeterminate,Indeterminate
+LIDC-IDRI-0637,Moderately Unlikely,Benign
+LIDC-IDRI-0639,Moderately Suspicious,Malignant
+LIDC-IDRI-0641,Moderately Unlikely,Benign
+LIDC-IDRI-0644,Moderately Unlikely,Benign
+LIDC-IDRI-0645,Indeterminate,Indeterminate
+LIDC-IDRI-0648,Highly Unlikely,Benign
+LIDC-IDRI-0649,Highly Unlikely,Benign
+LIDC-IDRI-0651,Indeterminate,Indeterminate
+LIDC-IDRI-0655,Moderately Unlikely,Benign
+LIDC-IDRI-0656,Indeterminate,Indeterminate
+LIDC-IDRI-0659,Moderately Suspicious,Malignant
+LIDC-IDRI-0660,Moderately Suspicious,Malignant
+LIDC-IDRI-0661,Moderately Unlikely,Benign
+LIDC-IDRI-0663,Indeterminate,Indeterminate
+LIDC-IDRI-0671,Indeterminate,Indeterminate
+LIDC-IDRI-0673,Moderately Unlikely,Benign
+LIDC-IDRI-0674,Highly Unlikely,Benign
+LIDC-IDRI-0676,Indeterminate,Indeterminate
+LIDC-IDRI-0678,Moderately Suspicious,Malignant
+LIDC-IDRI-0684,Moderately Unlikely,Benign
+LIDC-IDRI-0686,Indeterminate,Indeterminate
+LIDC-IDRI-0688,Moderately Unlikely,Benign
+LIDC-IDRI-0692,Indeterminate,Indeterminate
+LIDC-IDRI-0694,Moderately Unlikely,Benign
+LIDC-IDRI-0696,Indeterminate,Indeterminate
+LIDC-IDRI-0697,Highly Suspicious,Malignant
+LIDC-IDRI-0698,Highly Suspicious,Malignant
+LIDC-IDRI-0699,Indeterminate,Indeterminate
+LIDC-IDRI-0700,Highly Unlikely,Benign
+LIDC-IDRI-0701,Indeterminate,Indeterminate
+LIDC-IDRI-0702,Highly Suspicious,Malignant
+LIDC-IDRI-0704,Highly Unlikely,Benign
+LIDC-IDRI-0705,Indeterminate,Indeterminate
+LIDC-IDRI-0708,Highly Unlikely,Benign
+LIDC-IDRI-0712,Moderately Suspicious,Malignant
+LIDC-IDRI-0715,Highly Suspicious,Malignant
+LIDC-IDRI-0717,Highly Unlikely,Benign
+LIDC-IDRI-0720,Indeterminate,Indeterminate
+LIDC-IDRI-0722,Moderately Unlikely,Benign
+LIDC-IDRI-0723,Moderately Suspicious,Malignant
+LIDC-IDRI-0726,Highly Unlikely,Benign
+LIDC-IDRI-0727,Moderately Unlikely,Benign
+LIDC-IDRI-0728,Moderately Suspicious,Malignant
+LIDC-IDRI-0729,Moderately Unlikely,Benign
+LIDC-IDRI-0730,Moderately Suspicious,Malignant
+LIDC-IDRI-0732,Indeterminate,Indeterminate
+LIDC-IDRI-0733,Moderately Unlikely,Benign
+LIDC-IDRI-0734,Highly Suspicious,Malignant
+LIDC-IDRI-0740,Moderately Suspicious,Malignant
+LIDC-IDRI-0742,Indeterminate,Indeterminate
+LIDC-IDRI-0744,Indeterminate,Indeterminate
+LIDC-IDRI-0748,Moderately Unlikely,Benign
+LIDC-IDRI-0752,Indeterminate,Indeterminate
+LIDC-IDRI-0756,Moderately Suspicious,Malignant
+LIDC-IDRI-0759,Indeterminate,Indeterminate
+LIDC-IDRI-0761,Indeterminate,Indeterminate
+LIDC-IDRI-0762,Moderately Unlikely,Benign
+LIDC-IDRI-0766,Highly Unlikely,Benign
+LIDC-IDRI-0768,Moderately Suspicious,Malignant
+LIDC-IDRI-0770,Moderately Suspicious,Malignant
+LIDC-IDRI-0771,Moderately Unlikely,Benign
+LIDC-IDRI-0772,Highly Suspicious,Malignant
+LIDC-IDRI-0775,Moderately Suspicious,Malignant
+LIDC-IDRI-0776,Moderately Unlikely,Benign
+LIDC-IDRI-0777,Moderately Unlikely,Benign
+LIDC-IDRI-0779,Indeterminate,Indeterminate
+LIDC-IDRI-0785,Highly Unlikely,Benign
+LIDC-IDRI-0788,Indeterminate,Indeterminate
+LIDC-IDRI-0789,Moderately Unlikely,Benign
+LIDC-IDRI-0791,Highly Unlikely,Benign
+LIDC-IDRI-0794,Moderately Unlikely,Benign
+LIDC-IDRI-0795,Highly Unlikely,Benign
+LIDC-IDRI-0796,Highly Suspicious,Malignant
+LIDC-IDRI-0797,Moderately Unlikely,Benign
+LIDC-IDRI-0799,Moderately Suspicious,Malignant
+LIDC-IDRI-0800,Highly Suspicious,Malignant
+LIDC-IDRI-0801,Highly Unlikely,Benign
+LIDC-IDRI-0805,Indeterminate,Indeterminate
+LIDC-IDRI-0807,Highly Unlikely,Benign
+LIDC-IDRI-0809,Moderately Unlikely,Benign
+LIDC-IDRI-0810,Moderately Unlikely,Benign
+LIDC-IDRI-0811,Moderately Suspicious,Malignant
+LIDC-IDRI-0813,Highly Unlikely,Benign
+LIDC-IDRI-0814,Moderately Unlikely,Benign
+LIDC-IDRI-0816,Indeterminate,Indeterminate
+LIDC-IDRI-0819,Highly Unlikely,Benign
+LIDC-IDRI-0820,Highly Suspicious,Malignant
+LIDC-IDRI-0821,Indeterminate,Indeterminate
+LIDC-IDRI-0822,Moderately Unlikely,Benign
+LIDC-IDRI-0827,Moderately Suspicious,Malignant
+LIDC-IDRI-0828,Indeterminate,Indeterminate
+LIDC-IDRI-0829,Indeterminate,Indeterminate
+LIDC-IDRI-0832,Moderately Unlikely,Benign
+LIDC-IDRI-0834,Indeterminate,Indeterminate
+LIDC-IDRI-0835,Moderately Unlikely,Benign
+LIDC-IDRI-0836,Indeterminate,Indeterminate
+LIDC-IDRI-0837,Highly Suspicious,Malignant
+LIDC-IDRI-0838,Highly Unlikely,Benign
+LIDC-IDRI-0843,Indeterminate,Indeterminate
+LIDC-IDRI-0844,Moderately Unlikely,Benign
+LIDC-IDRI-0846,Indeterminate,Indeterminate
+LIDC-IDRI-0848,Moderately Unlikely,Benign
+LIDC-IDRI-0849,Indeterminate,Indeterminate
+LIDC-IDRI-0850,Highly Suspicious,Malignant
+LIDC-IDRI-0851,Moderately Unlikely,Benign
+LIDC-IDRI-0852,Moderately Unlikely,Benign
+LIDC-IDRI-0854,Moderately Unlikely,Benign
+LIDC-IDRI-0857,Highly Unlikely,Benign
+LIDC-IDRI-0858,Moderately Unlikely,Benign
+LIDC-IDRI-0859,Indeterminate,Indeterminate
+LIDC-IDRI-0860,Highly Unlikely,Benign
+LIDC-IDRI-0865,Highly Suspicious,Malignant
+LIDC-IDRI-0866,Moderately Unlikely,Benign
+LIDC-IDRI-0867,Highly Unlikely,Benign
+LIDC-IDRI-0868,Moderately Unlikely,Benign
+LIDC-IDRI-0869,Moderately Unlikely,Benign
+LIDC-IDRI-0870,Indeterminate,Indeterminate
+LIDC-IDRI-0871,Moderately Unlikely,Benign
+LIDC-IDRI-0874,Highly Suspicious,Malignant
+LIDC-IDRI-0875,Moderately Unlikely,Benign
+LIDC-IDRI-0879,Highly Unlikely,Benign
+LIDC-IDRI-0882,Indeterminate,Indeterminate
+LIDC-IDRI-0884,Highly Suspicious,Malignant
+LIDC-IDRI-0888,Indeterminate,Indeterminate
+LIDC-IDRI-0890,Highly Suspicious,Malignant
+LIDC-IDRI-0893,Moderately Unlikely,Benign
+LIDC-IDRI-0894,Moderately Suspicious,Malignant
+LIDC-IDRI-0896,Indeterminate,Indeterminate
+LIDC-IDRI-0898,Moderately Unlikely,Benign
+LIDC-IDRI-0902,Moderately Unlikely,Benign
+LIDC-IDRI-0905,Indeterminate,Indeterminate
+LIDC-IDRI-0906,Highly Unlikely,Benign
+LIDC-IDRI-0907,Moderately Unlikely,Benign
+LIDC-IDRI-0908,Moderately Unlikely,Benign
+LIDC-IDRI-0911,Indeterminate,Indeterminate
+LIDC-IDRI-0912,Indeterminate,Indeterminate
+LIDC-IDRI-0913,Moderately Unlikely,Benign
+LIDC-IDRI-0914,Highly Unlikely,Benign
+LIDC-IDRI-0915,Indeterminate,Indeterminate
+LIDC-IDRI-0916,Moderately Unlikely,Benign
+LIDC-IDRI-0917,Moderately Unlikely,Benign
+LIDC-IDRI-0919,Moderately Suspicious,Malignant
+LIDC-IDRI-0921,Highly Suspicious,Malignant
+LIDC-IDRI-0923,Moderately Unlikely,Benign
+LIDC-IDRI-0924,Indeterminate,Indeterminate
+LIDC-IDRI-0925,Moderately Suspicious,Malignant
+LIDC-IDRI-0928,Indeterminate,Indeterminate
+LIDC-IDRI-0929,Highly Unlikely,Benign
+LIDC-IDRI-0933,Indeterminate,Indeterminate
+LIDC-IDRI-0936,Moderately Unlikely,Benign
+LIDC-IDRI-0938,Highly Suspicious,Malignant
+LIDC-IDRI-0939,Highly Suspicious,Malignant
+LIDC-IDRI-0940,Indeterminate,Indeterminate
+LIDC-IDRI-0941,Highly Suspicious,Malignant
+LIDC-IDRI-0942,Indeterminate,Indeterminate
+LIDC-IDRI-0947,Moderately Suspicious,Malignant
+LIDC-IDRI-0951,Highly Unlikely,Benign
+LIDC-IDRI-0953,Moderately Suspicious,Malignant
+LIDC-IDRI-0956,Moderately Suspicious,Malignant
+LIDC-IDRI-0963,Moderately Unlikely,Benign
+LIDC-IDRI-0965,Moderately Suspicious,Malignant
+LIDC-IDRI-0966,Moderately Unlikely,Benign
+LIDC-IDRI-0968,Moderately Suspicious,Malignant
+LIDC-IDRI-0973,Indeterminate,Indeterminate
+LIDC-IDRI-0976,Highly Suspicious,Malignant
+LIDC-IDRI-0978,Moderately Unlikely,Benign
+LIDC-IDRI-0982,Indeterminate,Indeterminate
+LIDC-IDRI-0984,Moderately Suspicious,Malignant
+LIDC-IDRI-0987,Highly Unlikely,Benign
+LIDC-IDRI-0990,Indeterminate,Indeterminate
+LIDC-IDRI-0991,Indeterminate,Indeterminate
+LIDC-IDRI-0994,Moderately Unlikely,Benign
+LIDC-IDRI-0997,Highly Unlikely,Benign
+LIDC-IDRI-0999,Highly Unlikely,Benign
+LIDC-IDRI-1001,Indeterminate,Indeterminate
+LIDC-IDRI-1002,Indeterminate,Indeterminate
+LIDC-IDRI-1003,Indeterminate,Indeterminate
+LIDC-IDRI-1004,Indeterminate,Indeterminate
+LIDC-IDRI-1005,Indeterminate,Indeterminate
+LIDC-IDRI-1007,Moderately Unlikely,Benign
+LIDC-IDRI-1010,Moderately Unlikely,Benign
+LIDC-IDRI-1011,Highly Suspicious,Malignant

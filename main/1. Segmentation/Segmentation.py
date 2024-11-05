@@ -1,15 +1,3 @@
-"""
-This is the source code for volume visualization
-
-Computer Vision Center
-Universitat Autonoma de Barcelona
-
-__author__ = "Debora Gil, Guillermo Torres, Carles Sanchez, Pau Cano"
-__license__ = "GPL"
-__email__ = "debora,gtorres,csanchez,pcano@cvc.uab.es"
-__year__ = "2023"
-"""
-
 ### IMPORT PY LIBRARIES
 # Python Library 2 manage volumetric data
 import numpy as np

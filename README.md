@@ -3,6 +3,8 @@
 > 1. I suggest expressing in the third person to facilitate distinguishing the author of each update;
 >
 > 2. The version number starts with a step (for example, in the first step of segmentation, the first digit of the version number is `1.x.x`);
+>
+> 3. When submitting code to GitHub, please commit the author and version.
 
 ### Version 1.0.0
 
@@ -27,7 +29,7 @@
 
 2. **Updated segmentation code**
 
-   - `Liu Zhihan` updated the segmentation code, now it can process data in batches;
+   - `Liu Zhihan` updated the `segmentation.py` code, now it can process data in batches;
    - Modified the method of reading .nii.gz, now use `nibabel` to read the file;
 
 3. **Submitted visualize_segmented.py**
@@ -35,3 +37,17 @@
      - `Liu Zhihan` submitted the code and marked the modified parts with #comments;
 
      - Mainly used to verify whether the segmented data is saved correctly;
+
+### Version 2.0.0
+
+1. **Carry out Feature Extraction**
+   - `Liu Zhihan`  chose `PyRadiomics` for feature extraction, and updated the `featuresExtraction.py` code;
+   - Due to hardware limitations, data will be processed in batches, and note I will write in the `.py` file;
+   - The extracted feature data is stored in `refs -> extracted_features.csv`;
+2. **Label the data (malignant/benign)**
+   - `Liu Zhihan`  wrote the judgment criteria mentioned in the data set in `Tag classification description.md`;
+   - Updated `ParsingExcel.py` code to store the marked data in `refs -> malignancy_classification.csv`;
+3. **Data preprocessing**
+   - `Liu Zhihan` merged `extracted_features.csv` and `malignancy_classification.csv`;
+   - Updated `MergeData.py` code to store the marked data in `refs -> merged_data.csv`;
+   - This is the basis for feature selection;
