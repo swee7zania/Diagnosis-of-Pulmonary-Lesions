@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1ee7b2ea-8564-4a6c-aa6d-f3b5e2d6ecf4" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/PyCode_SVM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SliceFeaturesExtraction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VolumeFeaturesExtraction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/featuresExtraction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/2. Feature Selection/feature_selection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/2. Feature Extraction/2. Data Marker/ParsingExcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/2. Feature Extraction/2. Data Marker/ParsingExcel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/2. Feature Extraction/3. Feature Selection/MergeData.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/2. Feature Extraction/3. Feature Selection/refs/merged_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/2. Feature Extraction/3. Feature Selection/特征选择.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/3. Classification/PyCode_SVM.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +47,10 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -63,6 +73,8 @@
       <updated>1730634457521</updated>
       <workItem from="1730634459016" duration="38000" />
       <workItem from="1730807592521" duration="1000" />
+      <workItem from="1730828622219" duration="476000" />
+      <workItem from="1730833623781" duration="216000" />
     </task>
     <servers />
   </component>

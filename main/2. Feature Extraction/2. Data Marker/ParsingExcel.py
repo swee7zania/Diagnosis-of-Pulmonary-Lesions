@@ -1,17 +1,20 @@
 import pandas as pd
 import os
 
-# 设置路径
+"""
+    Author: LIU ZHIHAN
+    Function: Label the data as malignant or benign
+"""
 code_dir = os.path.dirname(os.path.abspath(__file__))
 excel_file_path = os.path.join(code_dir,'refs', 'MetadatabyAnnotation.xlsx')
 
-# 读取 Excel 数据
+# Reading Excel data
 data = pd.read_excel(excel_file_path)
 
-# 提取 Patient ID 和 Malignancy 列
+# Extract the Patient ID and Malignancy columns
 labels_dict = data.set_index('patient_id')['Malignancy'].to_dict()
 
-# 定义恶性程度到分类的映射
+# Define the mapping from malignancy to classification
 def classify_malignancy(malignancy):
     if malignancy in ["Highly Suspicious", "Moderately Suspicious"]:
         return "Malignant"
@@ -20,18 +23,18 @@ def classify_malignancy(malignancy):
     else:  # Indeterminate
         return "Indeterminate"
 
-# 遍历标签字典并生成分类
+# Traverse the label dictionary and generate categories
 classification_results = []
 
 for patient_id, malignancy in labels_dict.items():
     classification = classify_malignancy(malignancy)
     classification_results.append((patient_id, malignancy, classification))
 
-# 打印结果
+# Printing Results
 # for result in classification_results:
 #     print(f"Patient ID: {result[0]}, Malignancy: {result[1]}, Classification: {result[2]}")
 
-# 如果需要，可以将结果保存为新的 Excel 文件
+# Save the results as a new Excel file
 classification_df = pd.DataFrame(classification_results, columns=['Patient ID', 'Malignancy', 'Classification'])
 output_excel_path = os.path.join(code_dir,'refs', 'malignancy_classification.csv')
 classification_df.to_csv(output_excel_path, index=False)

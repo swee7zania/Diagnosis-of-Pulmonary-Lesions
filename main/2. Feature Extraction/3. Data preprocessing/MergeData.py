@@ -1,11 +1,9 @@
 import pandas as pd
 import os
-import pymrmr
 
 """
     Author: LIU ZHIHAN
-    Function: Extract features from the segmented data and select some features to record in Excel
-    Attention: Please make sure the dependent libraries are installed before runnin - pymrmr
+    Function: Merge two excel tables
 """
 
 code_dir = os.path.dirname(os.path.abspath(__file__))

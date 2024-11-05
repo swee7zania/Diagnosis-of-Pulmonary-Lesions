@@ -6,6 +6,8 @@
 >
 > 3. When submitting code to GitHub, please commit the author and version.
 
+
+
 ### Version 1.0.0
 
 1. ##### Updated folder structure
@@ -16,27 +18,29 @@
 2. ##### Submitted Segmentation.py
 
      - `Liu Zhihan` submitted the code and marked the modified parts with """comments""";
+- Mainly updated the import of datasets and the output of comparison images after segmentation;
 
-     - Mainly updated the import of datasets and the output of comparison images after segmentation;
 
+
+------
 
 ### Version 1.0.1
 
 1. **Added save folder**
-
      - `Liu Zhihan` added the folder of saving files, which is mainly used to save the segmented data;
      - I saved it in the OUTPUT_SEGMENTED folder at the same level as VOIs;
-
 2. **Updated segmentation code**
 
    - `Liu Zhihan` updated the `segmentation.py` code, now it can process data in batches;
    - Modified the method of reading .nii.gz, now use `nibabel` to read the file;
-
 3. **Submitted visualize_segmented.py**
 
      - `Liu Zhihan` submitted the code and marked the modified parts with #comments;
+- Mainly used to verify whether the segmented data is saved correctly;
 
-     - Mainly used to verify whether the segmented data is saved correctly;
+
+
+------
 
 ### Version 2.0.0
 
@@ -51,3 +55,22 @@
    - `Liu Zhihan` merged `extracted_features.csv` and `malignancy_classification.csv`;
    - Updated `MergeData.py` code to store the marked data in `refs -> merged_data.csv`;
    - This is the basis for feature selection;
+
+
+
+------
+
+### Version 2.0.1
+
+1. **Choose a feature selection method**
+   - `Liu Zhihan`  chose the `mRMR` method;
+   - The comparison of the two methods is written in `Two methods of feature selection.md`;
+2. **Data preprocessing**
+   - `Liu Zhihan` preprocessed the merged data.
+   - The `mRMR` algorithm is only for numerical features.
+   - Updated `PreprocessingData.py` code to store the marked data in `refs -> cleaned_data.csv`;
+3. **Feature selection**
+   - `Liu Zhihan` extracted the first ten features using the `mRMR` method;
+   - Updated `mRMR_feature_selection.py` code to store the marked data in `refs -> selected_features.csv`;
+   - If you want to run it, you need to install the corresponding library `pip install mrmr_selection`;
+
