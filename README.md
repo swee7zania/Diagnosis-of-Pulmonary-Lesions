@@ -74,3 +74,20 @@
    - Updated `mRMR_feature_selection.py` code to store the marked data in `refs -> selected_features.csv`;
    - If you want to run it, you need to install the corresponding library `pip install mrmr_selection`;
 
+------
+
+### Version 3.0.0
+
+1. **Machine Learning**
+
+   - `Liu Zhihan`  uses SVM for machine learning;
+   - The final model and normalizer are saved;
+   - The test set is saved for testing, in `X_test.csv` and `y_test.csv`;
+
+2. **Testing the Model**
+
+   - `Liu Zhihan` updated the `predict_lesion_svm.py` code for testing the model;
+   - Allows users to input which test data to use for testing;
+
+   
+
