@@ -6,14 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1ee7b2ea-8564-4a6c-aa6d-f3b5e2d6ecf4" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/2. Feature Extraction/2. Data Marker/ParsingExcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/2. Feature Extraction/2. Data Marker/ParsingExcel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/2. Feature Extraction/3. Feature Selection/MergeData.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/2. Feature Extraction/3. Feature Selection/refs/merged_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/2. Feature Extraction/3. Feature Selection/特征选择.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/3. Classification/PyCode_SVM.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +21,12 @@
     &quot;assignee&quot;: &quot;swee7zania&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/jurgendeheus/Diagnosis-of-Pulmonary-Lesions.git&quot;,
-    &quot;accountId&quot;: &quot;7b7f4d1c-c7bd-4c74-aca3-4d1dba65cd05&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:swee7zania/Diagnosis-of-Pulmonary-Lesions.git",
+    "accountId": "7b7f4d1c-c7bd-4c74-aca3-4d1dba65cd05"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -75,6 +67,7 @@
       <workItem from="1730807592521" duration="1000" />
       <workItem from="1730828622219" duration="476000" />
       <workItem from="1730833623781" duration="216000" />
+      <workItem from="1731943647459" duration="107000" />
     </task>
     <servers />
   </component>

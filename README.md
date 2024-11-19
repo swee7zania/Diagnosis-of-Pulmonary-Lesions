@@ -79,15 +79,36 @@
 ### Version 3.0.0
 
 1. **Machine Learning**
-
    - `Liu Zhihan`  uses SVM for machine learning;
    - The final model and normalizer are saved;
    - The test set is saved for testing, in `X_test.csv` and `y_test.csv`;
-
 2. **Testing the Model**
-
    - `Liu Zhihan` updated the `predict_lesion_svm.py` code for testing the model;
    - Allows users to input which test data to use for testing;
-
    
 
+### Version 3.0.1
+
+> Major update, marking the end. I put the most detailed steps in `3. Machine Learning -> Steps.md`
+
+1. **Comparing Different Models**
+   - `Liu Zhihan` uses the K-fold method to fold 5 times and compares the two machine training models of SVM and KNN;
+   - Finally, it is concluded that SVM is the best method;
+
+2. **Comparing Different Kernel Functions**
+   - `Liu Zhihan` compares different kernel functions in the SVM algorithm;
+   - The final result is that RBF is the optimal function;
+
+3. **Testing the Model**
+
+   - `Liu Zhihan` training SVM method using RBF kernel function;
+
+   - The final model is saved in `svm_rbf_model.joblib`, with an accuracy of about 75%;
+   - At the same time, the test set data is also saved for testing;
+
+4. **Using the Model**
+
+   - `Liu Zhihan` updates `zpredict_lesion_svm.py` code for use in the final model;
+   - Use the saved test set data for testing. The user enters the serial number of the test row to get the prediction result.
+
+   

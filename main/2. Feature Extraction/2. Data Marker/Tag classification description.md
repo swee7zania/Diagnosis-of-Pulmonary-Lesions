@@ -23,6 +23,7 @@ These values can be categorized as follows:
 - **Malignant**: `Highly Suspicious`, `Moderately Suspicious`
 - **Benign**: `Highly Unlikely`, `Moderately Unlikely`
 - **Indeterminate**: `Indeterminate` may be considered a case that requires further examination, and is usually excluded or handled separately.
+- In code, 1 for malignant and 0 for benign.
 
 
 

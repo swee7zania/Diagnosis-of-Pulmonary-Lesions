@@ -17,6 +17,9 @@ label_df = pd.read_csv(labels_file)
 # Merging feature and label data
 data_df = pd.merge(feature_df, label_df[['Patient ID', 'Malignancy']], on='Patient ID')
 
+# Delete Indeterminate data
+data_df = data_df[data_df['Malignancy'] != 'Indeterminate']
+
 # Convert the “Malignancy” column to binary labels (1 for malignant and 0 for benign)
 data_df['Malignancy'] = data_df['Malignancy'].apply(lambda x: 1 if x in ['Highly Suspicious', 'Moderately Suspicious'] else 0)
 

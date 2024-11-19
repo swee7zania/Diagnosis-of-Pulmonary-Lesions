@@ -1,11 +1,11 @@
 Selected Features
 original_shape_Sphericity
-diagnostics_Image-original_Mean
+original_firstorder_Skewness
 original_shape_SurfaceVolumeRatio
 original_shape_SurfaceArea
-original_firstorder_Kurtosis
 diagnostics_Mask-interpolated_VoxelNum
 original_shape_VoxelVolume
 diagnostics_Mask-original_VoxelNum
-diagnostics_Mask-interpolated_Mean
+diagnostics_Image-original_Mean
+diagnostics_Image-interpolated_Maximum
 original_glszm_LargeAreaEmphasis
